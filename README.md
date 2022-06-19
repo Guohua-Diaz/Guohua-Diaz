@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Guohua-Diaz
 - 👀 I’m super interested in learning full stack web development.
 - 🌱 I’m currently learning coding in JavaScript.
-- 💞️ I’m looking to collaborate on ....hmm 
+- 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me hanbenman222@gmail.com 
 
 <!---
